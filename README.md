@@ -1,8 +1,8 @@
-# Widespread Co-Circulation of Dengue Virus Lineages in Rio de Janeiro: Genomic Insights from the 2024 Epidemic
+# Co-circulation of dengue virus lineages in Rio de Janeiro: historical genomic insights enriched by the 2024 Epidemic
 
 ## Overview
 
-This repository contains computational resources and supporting materials associated with the manuscript **"Widespread Co-Circulation of Dengue Virus Lineages in Rio de Janeiro: Genomic Insights from the 2024 Epidemic."**
+This repository contains computational resources and supporting materials associated with the manuscript **"Co-circulation of dengue virus lineages in Rio de Janeiro: historical genomic insights enriched by the 2024 Epidemic."**
 
 The study investigates the genomic diversity, evolutionary dynamics, and geographical spread of dengue virus (DENV) during the 2024 epidemic in Rio de Janeiro, Brazil.
 
@@ -83,7 +83,7 @@ Analytical scripts, configuration files, genomic accession numbers, and supporti
 
 If you use the data, code, or analytical resources associated with this study, please cite:
 
-**Giovanetti, M., et al.** *Widespread Co-Circulation of Dengue Virus Lineages in Rio de Janeiro: Genomic Insights from the 2024 Epidemic.*
+**Giovanetti, M., et al.** *Co-circulation of dengue virus lineages in Rio de Janeiro: historical genomic insights enriched by the 2024 Epidemic.*
 
 **Publication status:** To be updated.
 
